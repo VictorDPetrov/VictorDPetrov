@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VictorDPetrov
 - 👀 I’m interested in Coding & Music
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# & HTML
 - 📫 How to reach me: vdpetrov55@outlook.com (for work)
 
 <!---
