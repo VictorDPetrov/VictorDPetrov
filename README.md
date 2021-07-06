@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VictorDPetrov
-- 👀 I’m interested in Coding & Music
+- 👀 I’m interested in Coding & Music (Especially K-POP). Fav K-POP Group: CLC (Crystal Clear)
 - 🌱 I’m currently learning C# & HTML
 - 📫 How to reach me: vdpetrov55@outlook.com (for work)
 
