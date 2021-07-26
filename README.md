@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning C# & HTML
 - 📫 How to reach me: vdpetrov55@outlook.com (for work)
 
+---
+
 <br />
 
 ### Languages and Tools:
@@ -20,20 +22,13 @@
 <br />
 
 ---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="VictorDPetrov's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VictorDPetrov&show_icons=true&hide_border=true" />
 
 </details>
-
-
-
----
-
-
-
-
 
 <!---
 VictorDPetrov/VictorDPetrov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
