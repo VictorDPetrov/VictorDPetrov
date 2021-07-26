@@ -26,7 +26,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="VictorDPetrov's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VictorDPetrov&show_icons=true" />
+  <img align="left" alt="VictorDPetrov's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VictorDPetrov&show_icons=true&include_all_commits=true&theme=material-palenight" />
 
 </details>
 
