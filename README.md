@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="40%" 
+    <img width="55%" 
     height="55%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=VictorDPetrov&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Victor's github stats" />
   </a>
 </p>
@@ -32,8 +32,7 @@
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="30%" 
-    height="55%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDPetrov&theme=material-palenight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDPetrov&theme=material-palenight" />
   </a>
 </p>
 
