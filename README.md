@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying C#
 - 📫 How to reach me: vdpetrov55@outlook.com (for work)
 
-[![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=https://twitter.com/Ipenywis)]
+[![Mail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:islempenywis@gmail.com)
 
 ---
 
