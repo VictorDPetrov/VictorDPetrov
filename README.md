@@ -19,9 +19,13 @@
 <br />
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDPetrov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=VictorDPetrov&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Victor's github stats" />
 </a>
+
+<br>
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDPetrov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
