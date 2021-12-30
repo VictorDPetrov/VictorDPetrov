@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @VictorDPetrov
+<h1>👋 Hi, I’m Victor D. Petrov</h1>
+
+---
+
 - 👀 I’m interested in Coding, Music & Aviation
 - 🌱 I’m currently studying C#
 - 📫 How to reach me: vdpetrov55@outlook.com (for work)
-
 
 ---
 
@@ -23,10 +25,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=VictorDPetrov&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Victor's github stats" />
 </a>
-
-
-
-<!---
-VictorDPetrov/VictorDPetrov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
