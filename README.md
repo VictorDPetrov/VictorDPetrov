@@ -4,7 +4,7 @@
 - 📫 How to reach me: vdpetrov55@outlook.com (for work)
 
 
-[![Mail Badge](https://img.shields.io/badge/-@VictorDPetrov-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/VictorDPetrov) [![Microsoft Outlook badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white/-VictorDPetrov)](mailto:vdpetrov55@outlook.com)
+
 ---
 
 ### Languages and Tools:
