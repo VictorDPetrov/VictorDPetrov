@@ -19,10 +19,19 @@
 <br />
 
 ---
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=VictorDPetrov&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Victor's github stats" />
-</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDPetrov&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=VictorDPetrov&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Victor's github stats" />
+  </a>
+</p>
+
+
+<p align="left">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDPetrov&theme=material-palenight" />
+  </a>
+</p>
 
 ---
