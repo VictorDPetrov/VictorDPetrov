@@ -4,7 +4,7 @@
 - 📫 How to reach me: vdpetrov55@outlook.com (for work)
 
 
-[![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vdpetrov55@outlook.com)
+[![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-VictorDPetrov-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vdpetrov55@outlook.com)
 ---
 
 ### Languages and Tools:
