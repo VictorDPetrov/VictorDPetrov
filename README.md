@@ -4,8 +4,6 @@
 
 - 👀 I’m interested in Coding, Music & Aviation
  
-  Skills: C# / HTML / CSS
-
   - 🔭 I’m currently working on Pomodoro Nest App 
   - 🌱 I’m currently learning C# 
   - 📫 How to reach me: vdpetrov55@outlook.com
