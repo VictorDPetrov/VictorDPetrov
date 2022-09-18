@@ -2,11 +2,10 @@
 
 ---
 
-- 👀 I’m interested in Coding, Music & Aviation
+- 👀 I’m interested in Coding & Aviation
  
-  - 🔭 I’m currently working on Pomodoro Nest App 
-  - 🌱 I’m currently learning C# 
-  - 📫 How to reach me: vdpetrov55@outlook.com
+  - 🔭 I’m currently starting new project called: Apartment Manager
+  - 🌱 I’m currently Studying Computer Science
   
 ---
 <h1 style="font-size: 300px;" align="center">
