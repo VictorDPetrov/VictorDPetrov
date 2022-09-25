@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Coding & Aviation
  
-  - 🔭 I’m currently starting new project called: Apartment Manager
+  - 🔭 I’m currently starting new project called: Apartlux
   - 🌱 I’m currently Studying Computer Science
   
 ---
