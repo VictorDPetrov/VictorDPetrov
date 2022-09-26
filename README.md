@@ -2,9 +2,9 @@
 
 ---
 
-- 👀 I’m interested in Coding & Aviation
+- 👀 I’m interested in Coding
  
-  - 🔭 I’m currently starting new project called: Apartlux
+  - 🔭 I’m currently starting new project called: Apartna
   - 🌱 I’m currently Studying Computer Science
   
 ---
