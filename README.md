@@ -3,6 +3,8 @@
 ---
 <h2 align="center"> My Path: </h2>
 
+<p align="center">
 - 🔭 I'm currently working on a project, called: Apartna
 - 📫 How to reach me: **vdpetrov55@outlook.com**
 - 🌱 I’m currently Studying Computer Science
+</p>
