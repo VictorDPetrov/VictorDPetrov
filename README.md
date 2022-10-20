@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m Victor D. Petrov</h1>
+<h1>👋 Hello, I’m Victor D. Petrov</h1>
 
 ---
 <h2 align="center"> My Path: </h2>
