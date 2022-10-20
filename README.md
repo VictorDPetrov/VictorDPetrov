@@ -5,6 +5,6 @@
 
 <p align="center">
 - 🔭 I'm currently working on a project, called: Apartna <br>
-- 📫 How to reach me: **vdpetrov55@outlook.com** <br> 
+- 📫 How to reach me: <b>vdpetrov55@outlook.com</b> <br> 
 - 🌱 I’m currently Studying Computer Science <br>
 </p>
